@@ -1,0 +1,22 @@
+{
+  "name": "builder-string",
+  "version": "0.0.1",
+  "description": "HTML template plugin for component-build",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": "",
+  "keywords": [
+    "builder",
+    "component",
+    "string",
+    "html",
+    "plugin"
+  ],
+  "dependencies": {
+    "string-to-js": "*"
+  },
+  "author": "Anthony Short",
+  "license": "BSD"
+}
