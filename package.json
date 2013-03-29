@@ -1,7 +1,7 @@
 {
-  "name": "builder-string",
-  "version": "0.0.1",
-  "description": "HTML template plugin for component-build",
+  "name": "component-string",
+  "version": "0.1.0",
+  "description": "Component plugin to transform files into require-able strings",
   "main": "index.js",
   "scripts": {
     "test": ""
@@ -15,7 +15,8 @@
     "plugin"
   ],
   "dependencies": {
-    "string-to-js": "*"
+    "string-to-js": "*",
+    "batch": "*"
   },
   "author": "Anthony Short",
   "license": "BSD"
