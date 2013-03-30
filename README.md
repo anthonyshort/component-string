@@ -2,6 +2,14 @@
 
 Component plugin to allow you require files as strings.
 
+## Installation
+
+```
+npm install component-string
+```
+
+## Usage
+
 ```
 component build --use component-string
 ```
