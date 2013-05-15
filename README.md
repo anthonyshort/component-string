@@ -27,5 +27,5 @@ Add a `strings` section to your `component.json`
 Now in your `index.js` file you can require it:
 
 ```
-var template = require('template.html');
+var template = require('./template.html');
 ```
