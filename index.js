@@ -4,7 +4,7 @@ var strtojs = require('string-to-js'),
 
 module.exports = function(builder) {
   builder.hook('before scripts', function(pkg, next) {
-    var strings = pkg.conf.strings;
+    var strings = pkg.config.strings;
     if( !strings || strings.length === 0 ) return next();
 
     strings.forEach(function(file, i){
