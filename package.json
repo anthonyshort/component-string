@@ -1,6 +1,6 @@
 {
   "name": "component-string",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Component plugin to transform files into require-able strings",
   "main": "index.js",
   "scripts": {
