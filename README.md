@@ -1,3 +1,5 @@
+#### This plugin isn't needed with Component 0.17+. Use the templates section of your component.json file and you can automatically require the files.
+
 # component-string
 
 Component plugin to allow you require files as strings.
